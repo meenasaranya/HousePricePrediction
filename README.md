@@ -1,6 +1,6 @@
 # HousePricePrediction
 House price prediction Assignment
-Objective - To build a multiple linear regression model for the prediction of house pricing.
+Objective - To build a Advanced regression model for the prediction of house pricing.
 
 **#Table of Contents**
 Stage1 1: Data understanding 
